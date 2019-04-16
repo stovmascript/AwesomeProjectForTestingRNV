@@ -105,8 +105,8 @@ android {
         applicationId "com.awesomeproject"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 4
-        versionName "3.0.0"
+        versionCode 5
+        versionName "4.0.0"
     }
     splits {
         abi {
